@@ -1,0 +1,53 @@
+body{ 
+   background-color: #FFFDD0;
+   margin:0;
+   font-size:18px; }
+ header{
+  background-color: #2d3a2f;
+  border: 2px solid #c9d58a;
+  margin: 14px;
+  padding: 12px;
+ }
+ header h1{
+  color: #fff;
+ }
+ header p{
+  color: #fff;
+  margin: 8px 0 0 0;
+  padding: 8px 10px 8px 10px; 
+ }
+ header a{
+  color: #f4d06f;
+}
+ header p b{ color: #f4d06f;}
+ header p i{ color: #c9b58a;}
+
+ main{
+  background-color: #2d3a2f;
+  border: 2px solid #c9d58a;
+  margin: 14px;
+  padding: 12px;
+ }
+ main h2{
+   color: #fff;}
+ main p{ color: #fff;
+  margin: 8px 0 0 0;
+  padding: 8px 10px 8px 10px;}
+
+ main p b{ color: #f4d06f;}
+ main p i{ color: #c9b58a;}
+
+  footer{
+  background-color: #2d3a2f;
+  border: 2px solid #c9d58a;
+  margin: 14px;
+  padding: 12px;
+ }
+ footer h2{
+   color: #fff;}
+
+ footer p{
+  color: #fff;
+  margin: 8px 0 0 0;
+  padding: 8px 10px 8px 10px; 
+ }
